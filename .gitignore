@@ -10,3 +10,6 @@ dist/
 
 # Mac OS folder clutter
 .DS_Store
+
+# Environment variables
+.env
